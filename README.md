@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arunav Mohanty
-- 👀 I’m interested in data science and analytics..also to build models someday
-- 🌱 I’m currently learning python and statistics
-- 💞️ I’m looking to collaborate on some sports analysis
+- 👀 I’m interested in data science and analytics
+- 🌱 I’m currently learning web data scraping, cnn models,computer vision 
+- 💞️ I’m looking to collaborate on some computer vision project
 - 📫 How to reach me on mohanty747@gmail.com
 
 <!---
